@@ -1,0 +1,49 @@
+h1 {
+  margin: 0px;
+  color: white;
+}
+p {
+  margin-top: 0px;
+  color: white;
+}
+
+.intro {
+  background-color: #0a0a0a;
+}
+hr {
+  margin: 0px;
+}
+body {
+  margin: 0px;
+}
+.info {
+  background-color: #37302e;
+  margin: 0px;
+}
+ul {
+  color: white;
+  margin: 0px;
+}
+h2 {
+  color: white;
+}
+a {
+  color: beige;
+}
+.footer {
+  background-color: #141316;
+}
+table {
+  color: white;
+  margin-left: 20px;
+}
+.outro {
+  background-color: #141316;
+  height: 90px;
+}
+.foooter {
+  margin-left: 20px;
+}
+.outroo {
+  text-align: center;
+}
